@@ -1,0 +1,14 @@
+[package]
+name = "hybrid-oracle-client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Tokio asynchrony
+tokio = {version = "1.36", features = ["full"]}
+
+# Alloy to interact with Ethereum
+alloy = {version = "0.1", features = ["full"]}
+
+dotenv = "0.15"
+eyre = "0.6.12"
