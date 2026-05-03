@@ -15,3 +15,7 @@ Este proyecto es un cliente híbrido que consulta el precio de ETH/USD en tiempo
 ## Cómo usar
 1. Configura tu `.env` con `RPC_URL` y `CONTRACT_ADDRESS`.
 2. Ejecuta `cargo run`.
+
+## Paragraph
+Puedes tambien leer sobre el documento aqui:
+https://paragraph.com/@gabrielnavarro/building-a-hybrid-smart-contract-with-rust-and-chainlink
